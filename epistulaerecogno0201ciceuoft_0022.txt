@@ -1,0 +1,16 @@
+SIGLA
+
+Rav. = codex Ravennas in bibl. Classensi, saecl. xiii
+secundum Mommsenum
+Ant. et F = codex Antonianos et codex Faerni quibus Malaspina
+usus est
+
+J= editio Iensoniana prInceps (Venetiis 1470)
+Ram. = editio Romana princeps (Romae 1470)
+Vict. = editio Petri Victori (Venetiis 1534-1537)
+Man. = editio Pauli Manuti (Venetiis 1563)
+
+codd. = consensus codicum vel omnium vel plurimorum
+vett. = editores veteres
+vulg. = scriptura in editionibus vulgata
+
